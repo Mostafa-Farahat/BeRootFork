@@ -352,9 +352,9 @@ It is used to define the environment variables.
 
 ![Example](../imgs/Local-vs-Global-Variables.png)
 
-### Shell Variables 
+### Reserved Variables 
 
-A shell variable is a special variable that is set by the shell and is required by the shell in order to function correctly.
+A reserved variable is a special variable that is set by the shell and is required by the shell in order to function correctly.
 
 | Variable       | Description |
 |----------------|--------------------------------------------------------------|
